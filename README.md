@@ -13,8 +13,8 @@ This project demonstrates:
 - VS Code 
 
 ## practice questions
-What is dynamic typing?
-Difference between int and float?
-Why is type conversion required?
-What happens if conversion fails?
-How does Python store variables in memory?
+-What is dynamic typing?
+-Difference between int and float?
+-Why is type conversion required?
+-What happens if conversion fails?
+-How does Python store variables in memory?
